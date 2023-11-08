@@ -11991,11 +11991,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Escritorio\\Prog\\C#\\JobsWeb\\TurnosSaas\\TurnosSaas\\TurnosSaas.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Escritorio\\Prog\\C#\\TurnosSaas\\TurnosSaas\\TurnosSaas.csproj",
       "projectName": "TurnosSaas",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Escritorio\\Prog\\C#\\JobsWeb\\TurnosSaas\\TurnosSaas\\TurnosSaas.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Escritorio\\Prog\\C#\\TurnosSaas\\TurnosSaas\\TurnosSaas.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive\\Escritorio\\Prog\\C#\\JobsWeb\\TurnosSaas\\TurnosSaas\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Escritorio\\Prog\\C#\\TurnosSaas\\TurnosSaas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

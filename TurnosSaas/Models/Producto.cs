@@ -5,6 +5,7 @@ namespace TurnosSaas.Models
 {
     public class Producto
     {
+        //comentario
         [Key]
         public int ProductoId {  get; set; }
         [Required]

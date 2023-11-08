@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yO+DRmuUj+QkwaRoWnBI7gkgMOL3/+wEuks60X1fBCxS0PaLC46g3zUHm/CsYuoFtEhH1mAd/DsGlVikYxD4Vg==",
+  "dgSpecHash": "CtaY7cZXw8eVuQqMZ+v5TdlwXj6Mhg8gN2ehEbt9nMGSxS/QE2ShG5BnydZg4GnGCQb+rtVDKazoFhqqDL4Rgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive\\Escritorio\\Prog\\C#\\JobsWeb\\TurnosSaas\\TurnosSaas\\TurnosSaas.csproj",
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Escritorio\\Prog\\C#\\TurnosSaas\\TurnosSaas\\TurnosSaas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
