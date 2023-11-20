@@ -7,7 +7,7 @@ namespace TurnosSaas.Models
     {
         public Usuario()
         {
-            Pedidos = new List<Pedido>();
+            Pedidos = new List<Turno>();
         }
         [Key]
         public int UsuarioId { get; set; }
@@ -42,7 +42,7 @@ namespace TurnosSaas.Models
         public int RolId { get; set; }
         [ForeignKey("RolId")]
         public Rol Rol { get; set; } = null!;
-        public ICollection<Pedido> Pedidos { get; set; }
+        public ICollection<Turno> Turnos { get; set; }
         [InverseProperty("Usuario")]
         public ICollection<Direccion> Direcciones { get; set; } = null!;
 

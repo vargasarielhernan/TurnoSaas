@@ -3,10 +3,10 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TurnosSaas.Models
 {
-    public class Pedido
+    public class Turno
     {
         [Key]
-        public int PedidoId {  get; set; }
+        public int TurnoId {  get; set; }
         [Required]
         public int UsuarioId {  get; set; }
         [ForeignKey("UsuarioId")]
@@ -19,7 +19,7 @@ namespace TurnosSaas.Models
         [ForeignKey("UsuarioId")]
         public Direccion Direccion { get; set; } = null!;
         public decimal Total { get; set; }
-        public ICollection<Detalle_Pedido> DetallesPedido { get; set; } = null!;
+        public ICollection<Detalle_Turno> DetallesTurno { get; set; } = null!;
 
     }
 }

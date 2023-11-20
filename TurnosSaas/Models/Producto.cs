@@ -29,6 +29,6 @@ namespace TurnosSaas.Models
         public int Stock { get; set; }
         [Required]
         public bool Activo { get; set;}
-        public ICollection<Detalle_Pedido> DetallesPedido { get; set; } = null!;
+        public ICollection<Detalle_Turno> DetallesTurno { get; set; } = null!;
     }
 }
