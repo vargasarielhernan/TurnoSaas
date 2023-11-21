@@ -7,7 +7,7 @@ namespace TurnosSaas.Models
     {
         public Usuario()
         {
-            Pedidos = new List<Turno>();
+            Turnos = new List<Turno>();
         }
         [Key]
         public int UsuarioId { get; set; }
